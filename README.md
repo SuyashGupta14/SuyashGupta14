@@ -70,7 +70,7 @@
 ## 🏆 Highlights
 
 - 🥇 **District Rank 1** in Class 10th (98.33%) & 12th (95.6%)
-- 🛰️ Selected for **Vigyan Manthan Yatra** — visited ISRO (2019)
+- 🛰️ Selected for **Vigyan Manthan Yatra** — visited ISRO and Other Scientic Institutions. (2019)
 
 ---
 
