@@ -18,7 +18,7 @@
 
 ## About Me
 
-- 🎓 3rd Year B.Tech IT student at **SGSITS, Indore** | CGPA: **9.16**
+- 🎓 3rd Year B.Tech IT student at **SGSITS, Indore** 
 - 💼 Ex Web Dev Intern @ **Chem-E-Notebook** — built role-based lab management systems
 - 🌱 Actively learning **Machine Learning, Deep Learning & AI integration** in web apps
 - ⚡ I love building full-stack apps that solve real problems
