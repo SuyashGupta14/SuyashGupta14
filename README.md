@@ -57,13 +57,11 @@
 > Full-stack MERN app for digitizing clinic patient flow with real-time queue tracking and role-based dashboards.  
 `React` `Node.js` `Express` `MongoDB` `JWT` `RBAC` `Tailwind CSS`
 
-### 🔐 [Authentication System – Next.js & TypeScript](https://github.com/SuyashGupta14/auth-system)
-> Secure, scalable auth system with JWT, protected routes, middleware, and role-based access control.  
-`Next.js` `TypeScript` `JWT` `RBAC`
+### 🤖 AI Detection Suite – Multi-Task ML System
+> End-to-end ML system with Flask GUI covering 4 tasks: AI/Real Video Detection, Credit Card Fraud Detection, Satellite Image Classification, and Fake Job Posting Detection.  
+> Built full ML pipelines including preprocessing, feature engineering, hyperparameter tuning, model evaluation, and real-time inference visualization.
 
-### 📈 [Crypto Tracker](https://github.com/SuyashGupta14/crypto-tracker)
-> Real-time cryptocurrency dashboard with live prices, market trends, and detailed coin metrics via public API.  
-`React` `JavaScript` `REST API`
+`Python` `Flask` `CNN` `ResNet50` `XGBoost` `Logistic Regression` `Scikit-learn`
 
 ---
 
